@@ -1,6 +1,2 @@
 *.sql
 *.txt
-
-// ignorar a pasta
-nome-pasta/*
-nome-pasta/
